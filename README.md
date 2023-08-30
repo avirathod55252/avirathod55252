@@ -1,7 +1,7 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
+[![MasterHead](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTe_A6hlXWzkNbBVjB7kREDd6af48BTqTERJOoG-9i3P7hKQvJTuNhpiDV2MME8BCN6Xps&usqp=CAU)]()
 <h1 align="center">Hi 👋, I'm Avinash Rathod</h1>
 <h3 align="center">A passionate Frontend Developer from India</h3>
-<img align="right" alt="Coding" width="400" src="https://images.app.goo.gl/tZJxvpKjp73B2fiv6">
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=avirathod55252&label=Profile%20views&color=0e75b6&style=flat" alt="avirathod55252" /> </p>
 
