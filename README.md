@@ -47,5 +47,5 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=avirathod55252&" alt="avirathod55252" /></p> <br>
 
-<img align="center"  alt="Coding" width="400" src="https://www.shutterstock.com/shutterstock/photos/1698672202/display_1500/stock-vector-let-s-work-together-calligraphic-inscription-with-font-design-black-white-yellow-colors-1698672202.jpg">
+<img align="right"  alt="Coding" width="400" src="https://www.shutterstock.com/shutterstock/photos/1698672202/display_1500/stock-vector-let-s-work-together-calligraphic-inscription-with-font-design-black-white-yellow-colors-1698672202.jpg">
 
