@@ -2,6 +2,7 @@
 <h1 align="center">Hi 👋, I'm Avinash Rathod</h1>
 <h3 align="center">A passionate Frontend Developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<img align="right" alt="Coding" width="440" src="https://www.shutterstock.com/shutterstock/photos/1698672202/display_1500/stock-vector-let-s-work-together-calligraphic-inscription-with-font-design-black-white-yellow-colors-1698672202.jpg">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=avirathod55252&label=Profile%20views&color=0e75b6&style=flat" alt="avirathod55252" /> </p>
 
