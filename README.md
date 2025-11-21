@@ -11,7 +11,6 @@
 
 - 👨‍💻 All of my projects are available at [https://avirathod.vercel.app/](https://avirathod.vercel.app/))
 
-- 📝 I regularly write articles on [https://techandnontechknowlege.blogspot.com/](https://techandnontechknowlege.blogspot.com/)
 
 - 💬 Ask me about **<HTML>CSS>JAVASCRIPT>REACTJS>C-JAVA-DSA>**
 
