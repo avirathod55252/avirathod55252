@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **React_JS , Node-Js , BlockChain**
 
-- 👨‍💻 All of my projects are available at [https://avinashrathod.vercel.app/](https://avinashrathod.vercel.app/)
+- 👨‍💻 All of my projects are available at [https://avirathod.vercel.app/](https://avirathod.vercel.app/))
 
 - 📝 I regularly write articles on [https://techandnontechknowlege.blogspot.com/](https://techandnontechknowlege.blogspot.com/)
 
@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **avinashrathod55252@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1xc1DYmIEUyUWz0eR61Jc2MQGkwkUneXQ/view?usp=sharing](https://drive.google.com/file/d/1xc1DYmIEUyUWz0eR61Jc2MQGkwkUneXQ/view?usp=sharing)
+- 📄 Know about my experiences [https://avirathod.vercel.app/](https://avirathod.vercel.app/)
 
 - ⚡ Fun fact **I think I am Funny**
 
